@@ -1,0 +1,6 @@
+2022/07/31-09:59:57.882 e8ee Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kbb.com_0.indexeddb.leveldb since it was missing.
+2022/07/31-09:59:57.884 e8ee Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kbb.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/31-10:02:57.853 ebc0 Level-0 table #5: started
+2022/07/31-10:02:57.855 ebc0 Level-0 table #5: 1831 bytes OK
+2022/07/31-10:02:57.858 ebc0 Delete type=0 #3
+2022/07/31-10:02:57.859 ebc0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

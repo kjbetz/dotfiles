@@ -1,0 +1,7 @@
+2022/08/21-14:10:37.585 387d Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.trainerroad.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/21-14:10:37.585 387d Recovering log #3
+2022/08/21-14:10:37.590 387d Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.trainerroad.com_0.indexeddb.leveldb/000003.log 
+2022/08/21-14:11:12.396 3831 Level-0 table #5: started
+2022/08/21-14:11:12.400 3831 Level-0 table #5: 35518 bytes OK
+2022/08/21-14:11:12.404 3831 Delete type=0 #3
+2022/08/21-14:11:12.404 3831 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

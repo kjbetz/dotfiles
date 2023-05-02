@@ -1,0 +1,5 @@
+@theme "nord"
+
+configuration {
+    font: "Cantarrel 16";
+}

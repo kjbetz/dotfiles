@@ -1,0 +1,7 @@
+2022/07/08-14:38:01.595 3dfb Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.clearancejobs.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/08-14:38:01.595 3dfb Recovering log #3
+2022/07/08-14:38:01.595 3dfb Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.clearancejobs.com_0.indexeddb.leveldb/000003.log 
+2022/07/08-15:00:43.803 4239 Level-0 table #5: started
+2022/07/08-15:00:43.809 4239 Level-0 table #5: 41393 bytes OK
+2022/07/08-15:00:43.812 4239 Delete type=0 #3
+2022/07/08-15:00:43.813 4239 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

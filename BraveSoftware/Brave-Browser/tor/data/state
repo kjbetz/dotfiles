@@ -1,0 +1,40 @@
+# Tor state file last generated on 2022-08-04 14:12:56 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 245 1
+CircuitBuildTimeBin 265 1
+CircuitBuildTimeBin 315 1
+CircuitBuildTimeBin 375 1
+CircuitBuildTimeBin 425 1
+CircuitBuildTimeBin 535 1
+CircuitBuildTimeBin 605 1
+CircuitBuildTimeBin 615 1
+CircuitBuildTimeBin 705 1
+CircuitBuildTimeBin 715 1
+CircuitBuildTimeBin 3745 1
+CircuitBuildTimeBin 43385 1
+Dormant 0
+Guard in=default rsa_id=E485F341A6AE541DF313AC01CA7C5E1DD3820A5E nickname=ToolHaven692 sampled_on=2022-08-04T13:17:04 sampled_idx=0 sampled_by=0.4.7.8 listed=1 confirmed_on=2022-07-30T13:42:12 confirmed_idx=0 pb_use_attempts=3.000000 pb_use_successes=3.000000 pb_circ_attempts=10.000000 pb_circ_successes=9.000000 pb_successful_circuits_closed=9.000000
+Guard in=default rsa_id=1669E51A8F1D7D7255683F5536D3BE643EB11664 nickname=boats sampled_on=2022-08-01T07:50:31 sampled_idx=1 sampled_by=0.4.7.8 listed=1 confirmed_on=2022-08-02T09:51:23 confirmed_idx=2
+Guard in=default rsa_id=15C3F39B273727B6AEF44975C5E6F8FA341C2F4B nickname=bosses1 sampled_on=2022-07-30T06:59:01 sampled_idx=2 sampled_by=0.4.7.8 listed=1 confirmed_on=2022-07-31T06:33:54 confirmed_idx=1 pb_circ_attempts=2.000000 pb_circ_successes=2.000000 pb_successful_circuits_closed=2.000000
+Guard in=default rsa_id=3A9BEEF5A9B5862152A807B80FA8DCB91D15B46A nickname=Baltic sampled_on=2022-08-02T14:52:39 sampled_idx=3 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=A99B0D9E5FD5BC3C8F2D006EC91F8C7F40E09CB8 nickname=buttercup sampled_on=2022-08-02T07:26:50 sampled_idx=4 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=BD4C647508162F59CB44E4DFC1C2B2B8A9387CCA nickname=regar42 sampled_on=2022-07-24T20:49:48 sampled_idx=5 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=D56A98D38FC3C75E0347EEF3DD9C12749AF7C7C5 nickname=sTORch sampled_on=2022-07-31T06:26:59 sampled_idx=6 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=38F732DD349A2E59078434651162A2F4201934A5 nickname=mixminion sampled_on=2022-07-29T16:18:59 sampled_idx=7 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=66F45C9CB901EBB4CF24370AA56A2625507CC95B nickname=jwt56166 sampled_on=2022-07-31T18:45:01 sampled_idx=8 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=23C2C0FD46606BAB2743D07D39B2CEF7F47B0E38 nickname=pipepipepipepipe sampled_on=2022-07-31T13:18:30 sampled_idx=9 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=9ACD21680CCBE65A5D5A638D85A8388A85D6EE05 nickname=YonderYuccaN2NoExit sampled_on=2022-07-30T09:16:13 sampled_idx=10 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=79980F9DC7883A681FBE778A74578F7992E0A935 nickname=DTFNODE57 sampled_on=2022-07-23T23:57:26 sampled_idx=11 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=BC85CE6CCF52D6915E9BCE1823688E0BFE350650 nickname=RDPdotSH sampled_on=2022-07-31T07:30:13 sampled_idx=12 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=799ECF332DECA02C49DE21FF022F7E2DBECDA771 nickname=Waeswynn sampled_on=2022-07-30T01:14:38 sampled_idx=13 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=83AC6BE9DD0AE8071AB0831306D0D71C1043B0D3 nickname=vaN1ph01 sampled_on=2022-07-30T04:21:18 sampled_idx=14 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=B93503D458D9FE97DE5C12D211082871D08F1284 nickname=rinderwahnRelay30L sampled_on=2022-07-24T09:29:59 sampled_idx=15 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=92FC876C89DAF8AC7E90D1A898A4FE3C06C32CF6 nickname=aesop2 sampled_on=2022-08-04T13:25:10 sampled_idx=16 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=F41CFF189DA8C4C0029ACCAE5A3993065218C8EA nickname=clubaura sampled_on=2022-08-03T03:27:16 sampled_idx=17 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=00D2CE3C2153EA09786F2105F26B138CF759424F nickname=tried sampled_on=2022-08-02T11:17:40 sampled_idx=18 sampled_by=0.4.7.8 listed=1
+Guard in=default rsa_id=EC81C2AAB6EB945C53F6BE9F4F082D78CA089A66 nickname=artikel10ber78 sampled_on=2022-07-27T09:09:05 sampled_idx=19 sampled_by=0.4.7.8 listed=1
+LastWritten 2022-08-04 21:12:56
+TorVersion Tor 0.4.7.8
+TotalBuildTimes 12

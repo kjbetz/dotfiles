@@ -1,0 +1,6 @@
+2022/08/02-16:05:23.002 238eb Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bikeexchange.com_0.indexeddb.leveldb since it was missing.
+2022/08/02-16:05:23.004 238eb Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.bikeexchange.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/02-16:09:12.145 235ba Level-0 table #5: started
+2022/08/02-16:09:12.147 235ba Level-0 table #5: 1268 bytes OK
+2022/08/02-16:09:12.149 235ba Delete type=0 #3
+2022/08/02-16:09:12.150 235ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

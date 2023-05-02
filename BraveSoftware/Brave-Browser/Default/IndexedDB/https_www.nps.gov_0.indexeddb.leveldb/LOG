@@ -1,0 +1,6 @@
+2022/04/22-21:18:18.114 25075 Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nps.gov_0.indexeddb.leveldb since it was missing.
+2022/04/22-21:18:18.119 25075 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nps.gov_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-21:25:59.764 250bb Level-0 table #5: started
+2022/04/22-21:25:59.766 250bb Level-0 table #5: 561 bytes OK
+2022/04/22-21:25:59.769 250bb Delete type=0 #3
+2022/04/22-21:25:59.769 250bb Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

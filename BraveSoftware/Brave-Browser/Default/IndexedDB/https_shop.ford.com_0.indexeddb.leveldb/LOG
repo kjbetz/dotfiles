@@ -1,0 +1,15 @@
+2022/04/27-21:55:14.679 41939 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shop.ford.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/27-21:55:14.679 41939 Recovering log #4
+2022/04/27-21:55:14.680 41939 Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_shop.ford.com_0.indexeddb.leveldb/000004.log 
+2022/04/27-22:10:05.597 42209 Level-0 table #8: started
+2022/04/27-22:10:05.601 42209 Level-0 table #8: 3191 bytes OK
+2022/04/27-22:10:05.606 42209 Delete type=0 #4
+2022/04/27-22:10:05.606 42209 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/27-22:10:05.607 42209 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0f\x00t\x00k\x001\x006\x005\x001\x001\x002\x002\x002\x006\x003\x000\x000\x000' @ 383 : 1
+2022/04/27-22:10:05.607 42209 Compacting 1@1 + 1@2 files
+2022/04/27-22:10:05.609 42209 Generated table #9@1: 36 keys, 1392 bytes
+2022/04/27-22:10:05.609 42209 Compacted 1@1 + 1@2 files => 1392 bytes
+2022/04/27-22:10:05.614 42209 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/27-22:10:05.615 42209 Delete type=2 #5
+2022/04/27-22:10:05.615 42209 Delete type=2 #8
+2022/04/27-22:10:05.616 42209 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0f\x00t\x00k\x001\x006\x005\x001\x001\x002\x002\x002\x006\x003\x000\x000\x000' @ 383 : 1 .. (end); will stop at (end)

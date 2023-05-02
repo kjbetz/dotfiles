@@ -1,0 +1,15 @@
+2022/05/06-21:45:19.841 6972c Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/06-21:45:19.841 6972c Recovering log #4
+2022/05/06-21:45:19.842 6972c Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000004.log 
+2022/05/06-22:48:47.758 7bf53 Level-0 table #8: started
+2022/05/06-22:48:47.763 7bf53 Level-0 table #8: 8678 bytes OK
+2022/05/06-22:48:47.767 7bf53 Delete type=0 #4
+2022/05/06-22:48:47.768 7bf53 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/06-22:48:47.768 7bf53 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x11\x00s\x00h\x00o\x00w\x00A\x00f\x00t\x00e\x00r\x00:\x00u\x00s\x00e\x00l\x00e\x00s\x00s' @ 705 : 1
+2022/05/06-22:48:47.768 7bf53 Compacting 1@1 + 1@2 files
+2022/05/06-22:48:47.772 7bf53 Generated table #9@1: 54 keys, 1121 bytes
+2022/05/06-22:48:47.772 7bf53 Compacted 1@1 + 1@2 files => 1121 bytes
+2022/05/06-22:48:47.775 7bf53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/06-22:48:47.776 7bf53 Delete type=2 #5
+2022/05/06-22:48:47.776 7bf53 Delete type=2 #8
+2022/05/06-22:48:47.777 7bf53 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x11\x00s\x00h\x00o\x00w\x00A\x00f\x00t\x00e\x00r\x00:\x00u\x00s\x00e\x00l\x00e\x00s\x00s' @ 705 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/04/20-20:53:18.338 10c0d Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.chewy.com_0.indexeddb.leveldb since it was missing.
+2022/04/20-20:53:18.350 10c0d Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.chewy.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/20-20:54:37.623 10c0d Level-0 table #5: started
+2022/04/20-20:54:37.626 10c0d Level-0 table #5: 1382 bytes OK
+2022/04/20-20:54:37.629 10c0d Delete type=0 #3
+2022/04/20-20:54:37.630 10c0d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

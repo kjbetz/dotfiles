@@ -1,0 +1,6 @@
+2022/04/19-21:29:43.338 ba17 Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.northwestchevrolet.com_0.indexeddb.leveldb since it was missing.
+2022/04/19-21:29:43.341 ba17 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.northwestchevrolet.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/19-21:29:50.736 ba8a Level-0 table #5: started
+2022/04/19-21:29:50.739 ba8a Level-0 table #5: 10095 bytes OK
+2022/04/19-21:29:50.742 ba8a Delete type=0 #3
+2022/04/19-21:29:50.742 ba8a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

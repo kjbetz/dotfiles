@@ -1,0 +1,6 @@
+2022/08/06-11:31:41.318 67a5 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/06-11:31:41.318 67a5 Recovering log #3
+2022/08/06-11:31:41.335 67a5 Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trello.com_0.indexeddb.leveldb/000003.log 
+2022/08/06-11:31:44.801 40e8 Level-0 table #5: started
+2022/08/06-11:31:44.836 40e8 Level-0 table #5: 1826605 bytes OK
+2022/08/06-11:31:44.839 40e8 Delete type=0 #3

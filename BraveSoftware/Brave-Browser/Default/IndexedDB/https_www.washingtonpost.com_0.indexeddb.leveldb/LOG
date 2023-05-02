@@ -1,0 +1,6 @@
+2022/06/12-15:55:14.690 77e2 Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.washingtonpost.com_0.indexeddb.leveldb since it was missing.
+2022/06/12-15:55:14.693 77e2 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.washingtonpost.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/12-15:55:23.477 77e3 Level-0 table #5: started
+2022/06/12-15:55:23.479 77e3 Level-0 table #5: 854 bytes OK
+2022/06/12-15:55:23.481 77e3 Delete type=0 #3
+2022/06/12-15:55:23.481 77e3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

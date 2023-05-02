@@ -1,0 +1,6 @@
+2022/08/07-09:33:50.438 c91c Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.strava.com_0.indexeddb.leveldb since it was missing.
+2022/08/07-09:33:50.449 c91c Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.strava.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/07-09:34:08.345 c91c Level-0 table #5: started
+2022/08/07-09:34:08.347 c91c Level-0 table #5: 6122 bytes OK
+2022/08/07-09:34:08.349 c91c Delete type=0 #3
+2022/08/07-09:34:08.349 c91c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2022/07/30-16:39:11.813 9290 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ally.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/30-16:39:11.813 9290 Recovering log #4
+2022/07/30-16:39:11.813 9290 Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ally.com_0.indexeddb.leveldb/000004.log 
+2022/07/30-16:39:14.119 938e Level-0 table #8: started
+2022/07/30-16:39:14.120 938e Level-0 table #8: 2743 bytes OK
+2022/07/30-16:39:14.121 938e Delete type=0 #4
+2022/07/30-16:39:14.121 938e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

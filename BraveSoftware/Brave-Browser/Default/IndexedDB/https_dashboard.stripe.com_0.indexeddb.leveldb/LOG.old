@@ -1,0 +1,6 @@
+2022/04/22-08:06:55.283 231d5 Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dashboard.stripe.com_0.indexeddb.leveldb since it was missing.
+2022/04/22-08:06:55.288 231d5 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_dashboard.stripe.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-08:07:54.533 233c2 Level-0 table #5: started
+2022/04/22-08:07:54.535 233c2 Level-0 table #5: 1451 bytes OK
+2022/04/22-08:07:54.539 233c2 Delete type=0 #3
+2022/04/22-08:07:54.540 233c2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2022/07/30-16:18:35.837 8fe2 Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.citi.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/30-16:18:35.837 8fe2 Recovering log #4
+2022/07/30-16:18:35.837 8fe2 Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.citi.com_0.indexeddb.leveldb/000004.log 
+2022/07/30-16:18:38.085 8fe2 Level-0 table #8: started
+2022/07/30-16:18:38.085 8fe2 Level-0 table #8: 226 bytes OK
+2022/07/30-16:18:38.087 8fe2 Delete type=0 #4
+2022/07/30-16:18:38.087 8fe2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/30-16:18:38.087 8fe2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 48 : 1
+2022/07/30-16:18:38.087 8fe2 Compacting 1@1 + 1@2 files
+2022/07/30-16:18:38.088 8fe2 Generated table #9@1: 19 keys, 536 bytes
+2022/07/30-16:18:38.088 8fe2 Compacted 1@1 + 1@2 files => 536 bytes
+2022/07/30-16:18:38.090 8fe2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/30-16:18:38.090 8fe2 Delete type=2 #5
+2022/07/30-16:18:38.090 8fe2 Delete type=2 #8
+2022/07/30-16:18:38.090 8fe2 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 48 : 1 .. (end); will stop at (end)

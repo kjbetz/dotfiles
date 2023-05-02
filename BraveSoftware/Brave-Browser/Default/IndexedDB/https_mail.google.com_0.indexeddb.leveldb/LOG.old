@@ -1,0 +1,6 @@
+2022/08/20-17:31:07.959 5adc Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/20-17:31:07.960 5adc Recovering log #55
+2022/08/20-17:31:07.963 5adc Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000055.log 
+2022/08/20-17:31:22.132 5adc Level-0 table #61: started
+2022/08/20-17:31:22.150 5adc Level-0 table #61: 2124205 bytes OK
+2022/08/20-17:31:22.153 5adc Delete type=0 #55

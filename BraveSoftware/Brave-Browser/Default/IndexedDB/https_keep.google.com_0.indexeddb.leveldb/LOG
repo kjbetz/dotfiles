@@ -1,0 +1,15 @@
+2022/08/20-20:33:39.907 7dd Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/20-20:33:39.907 7dd Recovering log #7
+2022/08/20-20:33:39.907 7dd Reusing old log /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_keep.google.com_0.indexeddb.leveldb/000007.log 
+2022/08/21-10:13:04.880 1171 Level-0 table #12: started
+2022/08/21-10:13:04.882 1171 Level-0 table #12: 209 bytes OK
+2022/08/21-10:13:04.885 1171 Delete type=0 #7
+2022/08/21-10:13:04.885 1171 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/08/21-10:13:04.885 1171 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 169 : 1
+2022/08/21-10:13:04.885 1171 Compacting 1@1 + 1@2 files
+2022/08/21-10:13:04.887 1171 Generated table #13@1: 54 keys, 937 bytes
+2022/08/21-10:13:04.887 1171 Compacted 1@1 + 1@2 files => 937 bytes
+2022/08/21-10:13:04.889 1171 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/21-10:13:04.889 1171 Delete type=2 #9
+2022/08/21-10:13:04.889 1171 Delete type=2 #12
+2022/08/21-10:13:04.890 1171 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 169 : 1 .. (end); will stop at (end)

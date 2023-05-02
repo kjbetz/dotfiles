@@ -1,0 +1,6 @@
+2022/04/20-21:37:43.992 11bfa Creating DB /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_weather.com_0.indexeddb.leveldb since it was missing.
+2022/04/20-21:37:44.004 11bfa Reusing MANIFEST /home/kjbetz/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_weather.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/21-07:32:07.801 18fcf Level-0 table #5: started
+2022/04/21-07:32:07.804 18fcf Level-0 table #5: 1249 bytes OK
+2022/04/21-07:32:07.808 18fcf Delete type=0 #3
+2022/04/21-07:32:07.809 18fcf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
